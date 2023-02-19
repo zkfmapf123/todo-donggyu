@@ -12,8 +12,9 @@
   - [ ] PostgreSQL
 
 - Devops
+  - [ ] Terraform
   - [ ] RabbitMQ
-  - [ ] AWS Lambda
+  - [ ] AWS Lambda use Terraform
   - [ ] Jenkins
     - [ ] use Docker
     - [ ] use Lambda
