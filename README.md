@@ -9,7 +9,13 @@
   - [ ] Deploy ECS
   - [ ] Deploy (Blue / Green)
   - [ ] Rollback (ECS)
- 
+
+- SNS
+  - [ ] Cloud Watch
+  - [ ] SNS
+  - [ ] Lambda
+  - [ ] Slack Webhooks
+
 - Monitoring
   - [ ] Prometheus
   - [ ] Grafana
