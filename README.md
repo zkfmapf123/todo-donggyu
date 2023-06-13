@@ -1,28 +1,23 @@
 # TODO ver.2023
 
-- Backend Framework
+- CI / CD Pipeline
+  - [ ] Terraform
+  - [ ] Github 
+  - [ ] Jenkins
+  - [ ] Push The ECR
+  - [ ] Trigger EventBridge
+  - [ ] Deploy ECS
+  - [ ] Deploy (Blue / Green)
+  - [ ] Rollback (ECS)
+ 
+- Monitoring
+  - [ ] Prometheus
+  - [ ] Grafana
 
-  - [ ] Nest
-    - [ ] MicroService + CQRS
-    - [ ] MonoRepo
-  - [x] Fiber
-
-- Database
-
-  - [ ] PostgreSQL
-
-- Devops
-  - [x] Terraform
-  - [ ] RabbitMQ
-  - [x] AWS Lambda use Terraform
-  - [x] Jenkins
-    - [x] use Docker
-    - [x] use Lambda
-
-- Side Project
- - [ ] ECR, ECS Simple Proejct
- - [ ] Fargate Simple Proejct
- - [ ] AWS CI/CD 
-   - AWS_CloudFormation
-   - AWS_CodePipeline
-   - AWS_CodeBuild
+- Service
+  - [ ] Docker
+  - [ ] ECS
+ 
+- Lanaguage & lib
+  - [ ] Golang
+  - [ ] Cobra (CLI)
