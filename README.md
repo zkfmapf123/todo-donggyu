@@ -11,10 +11,11 @@
   - [ ] Rollback (ECS)
 
 - SNS
-  - [ ] Cloud Watch
-  - [ ] SNS
-  - [ ] Lambda
-  - [ ] Slack Webhooks
+  - [x] Cloud Watch
+  - [x] SNS
+  - [x] Lambda
+  - [x] Slack Webhooks
+  - [ ] 간단하게 프로젝트로 만들어보기 (만능 슬랙봇)
 
 - Monitoring
   - [ ] Prometheus
