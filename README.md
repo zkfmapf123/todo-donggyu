@@ -28,3 +28,9 @@
 - Lanaguage & lib
   - [ ] Golang
   - [ ] Cobra (CLI)
+
+- Todo Repository
+  - [ ] golang-eb-ecs
+  - [ ] ecs-master
+  - [ ] cicd-pipeline
+  - [ ] simple-sns-slack
