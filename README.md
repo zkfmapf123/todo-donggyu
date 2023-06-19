@@ -26,8 +26,8 @@
   - [ ] ECS
  
 - Lanaguage & lib
-  - [ ] Golang
-  - [ ] Cobra (CLI)
+  - [x] Golang
+  - [x] Cobra (CLI)
 
 - Todo Repository
   - [ ] golang-eb-ecs
