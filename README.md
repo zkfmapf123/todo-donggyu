@@ -1,12 +1,12 @@
 # TODO ver.2023
 
 - CI / CD Pipeline
-  - [ ] Terraform
-  - [ ] Github 
-  - [ ] Jenkins
-  - [ ] Push The ECR
-  - [ ] Trigger EventBridge
-  - [ ] Deploy ECS
+  - [x] Terraform
+  - [x] Github 
+  - [x] Jenkins
+  - [x] Push The ECR
+  - [x] Trigger EventBridge
+  - [x] Deploy ECS
   - [ ] Deploy (Blue / Green)
   - [ ] Rollback (ECS)
 
@@ -24,13 +24,14 @@
 - Service
   - [ ] Docker
   - [ ] ECS
+  - [ ] Kinesis
  
 - Lanaguage & lib
   - [x] Golang
   - [x] Cobra (CLI)
 
 - Todo Repository
-  - [ ] golang-eb-ecs
-  - [ ] ecs-master
-  - [ ] cicd-pipeline
-  - [ ] simple-sns-slack
+  - [x] golang-eb-ecs
+  - [x] ecs-master
+  - [x] cicd-pipeline
+  - [x] simple-sns-slack
