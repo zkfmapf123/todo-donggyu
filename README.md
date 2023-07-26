@@ -9,21 +9,33 @@
   - [x] Deploy ECS
   - [ ] Deploy (Blue / Green)
   - [ ] Rollback (ECS)
+ 
+- CDN
+  - [ ] Download use S3
+  - [ ] Download use CloudFront from S3
+  - [ ] Deploy Static Page use CloudFront
+ 
+- Service
+  - [ ] EC2(FileBeat) + EC2(LogStash) + OpenSearch
+  - [ ] EC2(FileBeat) + EC2(LogStash) + Kibana
+  - [ ] EC2(FileBeat) + Fluentd
+  - [ ] What Different LogStash vs Fluendtd
 
 - SNS
   - [x] Cloud Watch
   - [x] SNS
   - [x] Lambda
   - [x] Slack Webhooks
-  - [ ] 간단하게 프로젝트로 만들어보기 (만능 슬랙봇)
+  - [x] EventBridge + Lambda + Slack Notification 
+  - [x] 간단하게 프로젝트로 만들어보기 (만능 슬랙봇)
 
 - Monitoring
   - [ ] Prometheus
   - [ ] Grafana
 
 - Service
-  - [ ] Docker
-  - [ ] ECS
+  - [x] Docker
+  - [x] ECS
   - [ ] Kinesis
  
 - Lanaguage & lib
