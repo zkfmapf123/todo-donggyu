@@ -7,8 +7,9 @@
   - [x] Push The ECR
   - [x] Trigger EventBridge
   - [x] Deploy ECS
-  - [ ] Deploy (Blue / Green)
-  - [ ] Rollback (ECS)
+  - [x] Deploy (Blue / Green)
+  - [x] Rollback (ECS)
+  - [ ] Kubernetis theory
  
 - CDN
   - [ ] Download use S3
