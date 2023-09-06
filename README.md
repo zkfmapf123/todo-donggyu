@@ -12,9 +12,9 @@
   - [ ] Kubernetis theory
  
 - CDN
-  - [ ] Download use S3
-  - [ ] Download use CloudFront from S3
-  - [ ] Deploy Static Page use CloudFront
+  - [x] Download use S3
+  - [x] Download use CloudFront from S3
+  - [x] Deploy Static Page use CloudFront (Terraform)
  
 - Service
   - [ ] EC2(FileBeat) + EC2(LogStash) + OpenSearch
@@ -48,3 +48,4 @@
   - [x] ecs-master
   - [x] cicd-pipeline
   - [x] simple-sns-slack
+  - [ ] Dongkins (Jenkins 뭔가 만들어볼수 있을것같음)... 
