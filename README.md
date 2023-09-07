@@ -9,6 +9,7 @@
   - [x] Deploy ECS
   - [x] Deploy (Blue / Green)
   - [x] Rollback (ECS)
+  - [ ] ECS + Go + CiCD FullSet
   - [ ] Kubernetis theory
  
 - CDN
