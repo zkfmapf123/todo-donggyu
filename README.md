@@ -22,6 +22,8 @@
   - [ ] EC2(FileBeat) + EC2(LogStash) + Kibana
   - [ ] EC2(FileBeat) + Fluentd
   - [ ] What Different LogStash vs Fluendtd
+  - [ ] MQTT Protocol (Realtime Service)
+  - [ ] zookeeper from service Discovery
 
 - SNS
   - [x] Cloud Watch
