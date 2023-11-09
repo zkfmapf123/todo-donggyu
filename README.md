@@ -16,6 +16,11 @@
   - [x] Download use S3
   - [x] Download use CloudFront from S3
   - [x] Deploy Static Page use CloudFront (Terraform)
+
+- DevSecOps + Network
+  - [ ] Boundary + Vault + Consul concept by ZeroTrust
+  - [ ] Region 간 통신 Best Practice
+  - [ ] Nat Gateway + Routing Table 친해지기...
  
 - Service
   - [ ] EC2(FileBeat) + EC2(LogStash) + OpenSearch
