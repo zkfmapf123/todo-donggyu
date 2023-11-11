@@ -11,6 +11,8 @@
   - [x] Rollback (ECS)
   - [ ] ECS + Go + CiCD FullSet
   - [ ] Kubernetis theory
+  - [ ] Sonacube (정적코드분석)
+  - [ ] Boundary + Vault + Consul
  
 - CDN
   - [x] Download use S3
