@@ -12,7 +12,6 @@
   - [ ] ECS + Go + CiCD FullSet
   - [ ] Kubernetis theory
   - [ ] Sonacube (정적코드분석)
-  - [ ] Boundary + Vault + Consul
  
 - CDN
   - [x] Download use S3
@@ -58,4 +57,8 @@
   - [x] ecs-master
   - [x] cicd-pipeline
   - [x] simple-sns-slack
-  - [ ] Dongkins (Jenkins 뭔가 만들어볼수 있을것같음)... 
+  - [ ] Dongkins (Jenkins 뭔가 만들어볼수 있을것같음)...
+
+- Infra Project
+  - [ ] Teleport (서버 접근제어)
+  - [ ] AWS 접근없이 인프라 구성할수있는 OpenSource (feat. 당근마켓)
