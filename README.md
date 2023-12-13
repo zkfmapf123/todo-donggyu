@@ -10,26 +10,20 @@
   - [x] Deploy (Blue / Green)
   - [x] Rollback (ECS)
   - [ ] ECS + Go + CiCD FullSet
-  - [ ] Kubernetis theory
+  - [ ] ECS + Kinesis Log Pipeline
+  - [x] Kubernetis theory
   - [ ] Sonacube (정적코드분석)
  
 - CDN
   - [x] Download use S3
   - [x] Download use CloudFront from S3
   - [x] Deploy Static Page use CloudFront (Terraform)
+  - [ ] Terraform Module ( CloudFront + S3 + Lambda ) -> 캐시무효 자동화 
 
 - DevSecOps + Network
   - [ ] Boundary + Vault + Consul concept by ZeroTrust
   - [ ] Region 간 통신 Best Practice
   - [ ] Nat Gateway + Routing Table 친해지기...
- 
-- Service
-  - [ ] EC2(FileBeat) + EC2(LogStash) + OpenSearch
-  - [ ] EC2(FileBeat) + EC2(LogStash) + Kibana
-  - [ ] EC2(FileBeat) + Fluentd
-  - [ ] What Different LogStash vs Fluendtd
-  - [ ] MQTT Protocol (Realtime Service)
-  - [ ] zookeeper from service Discovery
 
 - SNS
   - [x] Cloud Watch
@@ -40,13 +34,18 @@
   - [x] 간단하게 프로젝트로 만들어보기 (만능 슬랙봇)
 
 - Monitoring
-  - [ ] Prometheus
-  - [ ] Grafana
+  - [ ] Prometheus + Grafana (node-export, black-box)
+  - [ ] EFK ( Fluentbit, Elastic Agent )
+  - [ ] Pinpoint
 
 - Service
   - [x] Docker
   - [x] ECS
-  - [ ] Kinesis
+  - [x] Kinesis
+  - [x] Kinesis DataStream + Kinesis Firehoes + S3
+  - [ ] MQTT Protocol (Realtime Service)
+  - [ ] zookeeper from service Discovery
+  - [ ] Kafka CDC (use Golang)
  
 - Lanaguage & lib
   - [x] Golang
