@@ -92,6 +92,8 @@
   - [ ] AWS Data Pipeline (Kinesis, EMR, Glue)
   - [ ] Airflow
   - [ ] Deep Dive Data Engineering (Spark, Flink, Apache Beam)
+  - [ ] snowflak
+  - [ ] DataHub (Linkedin Opensource)
 
 - CDN
 
