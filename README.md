@@ -30,8 +30,7 @@
 
 - DevSecOps + Network
 
-  - [ ] Boundary + Vault + Consul concept by ZeroTrust
-  - [ ] Region 간 통신 Best Practice
+  - [x] Region 간 통신 Best Practice (VPC Peering, transit gateway)
   - [ ] Nat Gateway + Routing Table 친해지기...
 
 - SNS
@@ -70,11 +69,9 @@
   - [x] ecs-master
   - [x] cicd-pipeline
   - [x] simple-sns-slack
-  - [ ] Dongkins (Jenkins 뭔가 만들어볼수 있을것같음)...
 
 - Infra Project
-  - [ ] Teleport (서버 접근제어)
-  - [ ] AWS 접근없이 인프라 구성할수있는 OpenSource (feat. 당근마켓)
+  - [x] Teleport (서버 접근제어)
 
 </div>
 </details>
