@@ -16,22 +16,17 @@
   - [x] Deploy ECS
   - [x] Deploy (Blue / Green)
   - [x] Rollback (ECS)
-  - [ ] ECS + Go + CiCD FullSet
-  - [ ] ECS + Kinesis Log Pipeline
   - [x] Kubernetis theory
-  - [ ] Sonacube (정적코드분석)
 
 - CDN
 
   - [x] Download use S3
   - [x] Download use CloudFront from S3
   - [x] Deploy Static Page use CloudFront (Terraform)
-  - [ ] Terraform Module ( CloudFront + S3 + Lambda ) -> 캐시무효 자동화
 
 - DevSecOps + Network
 
   - [x] Region 간 통신 Best Practice (VPC Peering, transit gateway)
-  - [ ] Nat Gateway + Routing Table 친해지기...
 
 - SNS
 
@@ -42,21 +37,12 @@
   - [x] EventBridge + Lambda + Slack Notification
   - [x] 간단하게 프로젝트로 만들어보기 (만능 슬랙봇)
 
-- Monitoring
-
-  - [ ] Prometheus + Grafana (node-export, black-box)
-  - [ ] EFK ( Fluentbit, Elastic Agent )
-  - [ ] Pinpoint
-
 - Service
 
   - [x] Docker
   - [x] ECS
   - [x] Kinesis
   - [x] Kinesis DataStream + Kinesis Firehoes + S3
-  - [ ] MQTT Protocol (Realtime Service)
-  - [ ] zookeeper from service Discovery
-  - [ ] Kafka CDC (use Golang)
 
 - Lanaguage & lib
 
@@ -82,7 +68,18 @@
 
 - 전년도에 못한 Todo
 
-  - ...
+  - [ ] ECS For CiCD FullSet (ECS + Jenkins + CodeDeploy + Best Practice)
+  - [ ] ECS For Kinesis Pipeline (firelens + firehoes + s3)
+  - [ ] ECS use Sonacube
+  - [ ] Terraform Module (CloudFront + S3 + Lambda) -> 캐시무효 자동화
+  - [ ] NatGateway에 대해서 공부하기...
+  - [ ] Elastic Search (EFK, ELK, Elastic Agent)
+  - [ ] Prometheus (node-export, black-box)
+  - [ ] pinpoint
+  - [ ] MQTT Protocol (RealTime Chatting Service)
+  - [ ] Chat Service (API Gateway + Lambda + DynamoDB)
+  - [ ] zookeeper from Service Discovery
+  - [ ] Kafka CDC ***
 
 - Engineering
 
@@ -115,6 +112,10 @@
 - Certificate
   - AWS Associate
   - Certified Kubernetes Administrator (CKA)
+
+- Side-Project
+  - [ ] 나만의 AWS Architecture 구상도
+  - [ ] TodoList (co-app)
 
 </div>
 </details>
