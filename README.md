@@ -102,6 +102,8 @@
 
   - [ ] AWS Security Hub
   - [ ] SOAR (보안 오케스트레이션, 자동화)
+  - [ ] ABAC (Attribute-Based Access Control) 공부해보기 + IAM
+  - [ ] Cloud Trail + Event Bridge + SNS + AWS Chatbot + Slack
 
 - Infra
 
