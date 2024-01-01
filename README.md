@@ -97,6 +97,7 @@
 
   - [ ] Golang Deep Dive
   - [ ] TUI use Golang
+  - [ ] gossm 개량해서 사용하기
 
 - DevSecOps
 
