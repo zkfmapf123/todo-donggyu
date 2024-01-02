@@ -79,7 +79,8 @@
   - [ ] MQTT Protocol (RealTime Chatting Service)
   - [ ] Chat Service (API Gateway + Lambda + DynamoDB)
   - [ ] zookeeper from Service Discovery
-  - [ ] Kafka CDC ***
+  - [ ] <a href="https://kafka.apache.org/documentation/#introduction">Kafka 문서 정독하기</a>
+  - [ ] <a href="https://debezium.io/documentation/reference/stable/connectors/mysql.html">Debizium 문서 정독하기 </a>
 
 - Engineering
 
