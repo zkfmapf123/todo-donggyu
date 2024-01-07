@@ -68,12 +68,13 @@
 
 - 전년도에 못한 Todo
 
-  - [ ] ECS For CiCD FullSet (ECS + Jenkins + CodeDeploy + Best Practice)
-  - [ ] ECS For Kinesis Pipeline (firelens + firehoes + s3)
-  - [ ] ECS use Sonacube
+  - [x] ECS For CiCD FullSet (ECS + Jenkins + CodeDeploy + Best Practice)
+  - [x] ECS For Kinesis Pipeline (firelens + firehoes + s3)
+  - [ ] ECS use Sonacube + Clair
   - [ ] Terraform Module (CloudFront + S3 + Lambda) -> 캐시무효 자동화
   - [ ] NatGateway에 대해서 공부하기...
   - [ ] Elastic Search (EFK, ELK, Elastic Agent)
+  - [ ] LogStash 깊게 공부해보기
   - [ ] Prometheus (node-export, black-box)
   - [ ] pinpoint
   - [ ] MQTT Protocol (RealTime Chatting Service)
@@ -85,6 +86,8 @@
 - Engineering
 
   - [ ] AWS Data Pipeline (Kinesis, EMR, Glue)
+  - [ ] Glue 기반한 DataFlow 구성해보기 (EC2 - APIGateway - Kinesis DataStream - Kinesis Firehoes - S3 - AWS Glue)
+          - S3 데이터 저장 (Bronze Data, Silver Data, Golden Data 고려
   - [ ] Airflow
   - [ ] Deep Dive Data Engineering (Spark, Flink, Apache Beam)
   - [ ] snowflak
@@ -105,8 +108,9 @@
 
   - [ ] AWS Security Hub
   - [ ] SOAR (보안 오케스트레이션, 자동화)
+  - [ ] Consoleme 공부하기
   - [ ] ABAC (Attribute-Based Access Control) 공부해보기 + IAM
-  - [ ] Cloud Trail + Event Bridge + SNS + AWS Chatbot + Slack
+  - [x] Cloud Trail + Event Bridge + SNS + AWS Chatbot + Slack
 
 - Infra
 
@@ -115,8 +119,8 @@
   - [ ] EKS + Istio
 
 - Certificate
-  - AWS Associate
-  - Certified Kubernetes Administrator (CKA)
+  - [ ] AWS Associate
+  - [ ] Certified Kubernetes Administrator (CKA)
 
 - Side-Project
   - [ ] 나만의 AWS Architecture 구상도
