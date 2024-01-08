@@ -117,7 +117,7 @@
   - [ ] Lambda FullSet (Golang)
   - [ ] Kubernetes, k8s
   - [ ] EKS + Istio
-  - [ ] Nomad를 활용하여 Container들의 관리가 가능한가?
+  - [ ] <a href="https://m.blog.naver.com/alice_k106/221090348538">프로메테우스 + 그라파나 + CAdvisors + Node Exporter</a>
 
 - Certificate
   - [ ] AWS Associate
