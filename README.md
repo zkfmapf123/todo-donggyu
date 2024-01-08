@@ -117,7 +117,7 @@
   - [ ] Lambda FullSet (Golang)
   - [ ] Kubernetes, k8s
   - [ ] EKS + Istio
-  - [ ] <a href="https://m.blog.naver.com/alice_k106/221090348538">프로메테우스 + 그라파나 + CAdvisors + Node Exporter</a>
+  - [ ] 여러 인스턴스에 널려진 Container들의 정보를 한곳에서 보고싶음.. (Noamd나 Portrainer 들은 각 인스턴스에서만 동작함 -> 별롬)
 
 - Certificate
   - [ ] AWS Associate
