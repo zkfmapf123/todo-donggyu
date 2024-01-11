@@ -106,6 +106,7 @@
 
 - DevSecOps
 
+  - [ ] WAF , WAF 자동화, 특정 IP를 Temp형태로 제어
   - [ ] AWS Security Hub
   - [ ] SOAR (보안 오케스트레이션, 자동화)
   - [ ] Consoleme 공부하기
