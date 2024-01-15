@@ -73,10 +73,9 @@
   - [ ] ECS use Sonacube + Clair
   - [ ] Terraform Module (CloudFront + S3 + Lambda) -> 캐시무효 자동화
   - [ ] NatGateway에 대해서 공부하기...
-  - [ ] Elastic Search (EFK, ELK, Elastic Agent)
+  - [ ] Elastic Search (EFK, ELK, Elastic Agent, Fleet Manager)
   - [ ] LogStash 깊게 공부해보기
   - [ ] Prometheus (node-export, black-box)
-  - [ ] pinpoint
   - [ ] MQTT Protocol (RealTime Chatting Service)
   - [ ] Chat Service (API Gateway + Lambda + DynamoDB)
   - [ ] zookeeper from Service Discovery
