@@ -89,7 +89,7 @@
           - S3 데이터 저장 (Bronze Data, Silver Data, Golden Data 고려
   - [ ] Airflow
   - [ ] Deep Dive Data Engineering (Spark, Flink, Apache Beam)
-  - [ ] snowflak
+  - [ ] snowflake
   - [ ] DataHub (Linkedin Opensource)
 
 - CDN
@@ -99,9 +99,9 @@
 - Langauge
 
   - [ ] Golang Deep Dive
-  - [ ] TUI use Golang
+  - [ ] TUI use Golang (bubbletea)
   - [ ] gossm 개량해서 사용하기
-  - [ ] go cobra를 사용해서 CLI 만들기
+  - [x] go cobra를 사용해서 CLI 만들기
 
 - DevSecOps
 
