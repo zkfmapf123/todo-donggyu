@@ -114,7 +114,7 @@
 
 - Infra
 
-  - [ ] Lambda FullSet (Golang)
+  - [ ] Golang + Lambda + DynamoDB
   - [ ] Kubernetes, k8s
   - [ ] EKS + Istio
   - [ ] 여러 인스턴스에 널려진 Container들의 정보를 한곳에서 보고싶음.. (Noamd나 Portrainer 들은 각 인스턴스에서만 동작함 -> 별롬)
