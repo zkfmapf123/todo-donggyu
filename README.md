@@ -118,6 +118,7 @@
   - [ ] Kubernetes, k8s
   - [ ] EKS + Istio
   - [ ] 여러 인스턴스에 널려진 Container들의 정보를 한곳에서 보고싶음.. (Noamd나 Portrainer 들은 각 인스턴스에서만 동작함 -> 별롬)
+  - [ ] CloudWatch + Kinesis Firehoes + S3 + Athena / Kinesis Fiehoes 와 Event Bridge + Lambda 중에 어떤것이 더 효율적인가?
 
 - Certificate
   - [ ] AWS Associate
