@@ -71,10 +71,9 @@
   - [x] ECS For CiCD FullSet (ECS + Jenkins + CodeDeploy + Best Practice)
   - [x] ECS For Kinesis Pipeline (firelens + firehoes + s3)
   - [ ] ECS use Sonacube + Clair
-  - [ ] Terraform Module (CloudFront + S3 + Lambda) -> 캐시무효 자동화
   - [ ] NatGateway에 대해서 공부하기...
-  - [ ] Elastic Search (EFK, ELK, Elastic Agent, Fleet Manager)
-  - [ ] LogStash 깊게 공부해보기
+  - [x] Elastic Search (EFK, ELK, Elastic Agent, Fleet Manager)
+  - [x] LogStash 깊게 공부해보기
   - [ ] Prometheus (node-export, black-box)
   - [ ] MQTT Protocol (RealTime Chatting Service)
   - [ ] Chat Service (API Gateway + Lambda + DynamoDB)
@@ -99,7 +98,6 @@
 - Langauge
 
   - [ ] Golang Deep Dive
-  - [ ] TUI use Golang (bubbletea)
   - [ ] gossm 개량해서 사용하기
   - [x] go cobra를 사용해서 CLI 만들기
 
@@ -115,10 +113,11 @@
 - Infra
 
   - [ ] Golang + Lambda + DynamoDB
+  - [ ] ECS Fargate + EFK (ES + Fluentd + Kibana) + VPC Lattic
   - [ ] Kubernetes, k8s
   - [ ] EKS + Istio
   - [ ] 여러 인스턴스에 널려진 Container들의 정보를 한곳에서 보고싶음.. (Noamd나 Portrainer 들은 각 인스턴스에서만 동작함 -> 별롬)
-  - [ ] CloudWatch + Kinesis Firehoes + S3 + Athena / Kinesis Fiehoes 와 Event Bridge + Lambda 중에 어떤것이 더 효율적인가?
+  - [ ] CloudWatch + Kinesis Firehoes + S3 + Athena / Kinesis Fiehoes 와 Event Bridge + Lambda 중에 어떤것이 더 효율적인가? (Lambda가 효율적이긴 함...)
 
 - Certificate
   - [ ] AWS Associate
