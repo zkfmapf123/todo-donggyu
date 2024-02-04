@@ -70,7 +70,6 @@
 
   - [x] ECS For CiCD FullSet (ECS + Jenkins + CodeDeploy + Best Practice)
   - [x] ECS For Kinesis Pipeline (firelens + firehoes + s3)
-  - [ ] ECS use Sonacube + Clair
   - [ ] NatGateway에 대해서 공부하기...
   - [x] Elastic Search (EFK, ELK)
   - [ ] ES Deep Dive(Elastic Agent, APM, Fleet-Manager)
@@ -114,7 +113,7 @@
 - Infra
 
   - [ ] Golang + Lambda + DynamoDB
-  - [ ] ECS Fargate + EFK (ES + Fluentd + Kibana) + VPC Lattic
+  - [ ] ECS Fargate + Sonarcube + Clair or Scout + EFK (ES + Fluentd + Kibana) + VPC Lattic
   - [ ] Kubernetes, k8s
   - [ ] EKS + Istio
   - [ ] 여러 인스턴스에 널려진 Container들의 정보를 한곳에서 보고싶음.. (Noamd나 Portrainer 들은 각 인스턴스에서만 동작함 -> 별롬)
