@@ -72,7 +72,8 @@
   - [x] ECS For Kinesis Pipeline (firelens + firehoes + s3)
   - [ ] ECS use Sonacube + Clair
   - [ ] NatGateway에 대해서 공부하기...
-  - [x] Elastic Search (EFK, ELK, Elastic Agent, Fleet Manager)
+  - [x] Elastic Search (EFK, ELK)
+  - [ ] ES Deep Dive(Elastic Agent, APM, Fleet-Manager)
   - [x] LogStash 깊게 공부해보기
   - [ ] Prometheus (node-export, black-box)
   - [ ] MQTT Protocol (RealTime Chatting Service)
