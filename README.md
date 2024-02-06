@@ -80,6 +80,8 @@
   - [ ] zookeeper from Service Discovery
   - [ ] <a href="https://kafka.apache.org/documentation/#introduction">Kafka 문서 정독하기</a>
   - [ ] <a href="https://debezium.io/documentation/reference/stable/connectors/mysql.html">Debizium 문서 정독하기 </a>
+  - [ ] NLB 알고리즘 공부해보기 (Hash, IP ...)
+  - [ ] Fluentbit, Logstash를 비교하기 이전에 -> 로그유실이 없는 DataPipeline 작업을 위한 Best Practice
 
 - Engineering
 
