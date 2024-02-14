@@ -100,7 +100,6 @@
 - Langauge
 
   - [ ] Golang Deep Dive
-  - [ ] gossm 개량해서 사용하기
   - [x] go cobra를 사용해서 CLI 만들기
 
 - DevSecOps
@@ -117,9 +116,11 @@
   - [ ] Golang + Lambda + DynamoDB
   - [ ] ECS Fargate + Sonarcube + Clair or Scout + EFK (ES + Fluentd + Kibana) + VPC Lattic
   - [ ] Kubernetes, k8s
-  - [ ] EKS + Istio
+  - [ ] EKS + Github Action + Helm (GitOps)
+  - [ ] EKS + Github Action + Helm + Istio (Zero Trust)
   - [ ] 여러 인스턴스에 널려진 Container들의 정보를 한곳에서 보고싶음.. (Noamd나 Portrainer 들은 각 인스턴스에서만 동작함 -> 별롬)
   - [ ] CloudWatch + Kinesis Firehoes + S3 + Athena / Kinesis Fiehoes 와 Event Bridge + Lambda 중에 어떤것이 더 효율적인가? (Lambda가 효율적이긴 함...)
+  - [ ] AWS Config를 활용하여 인프라관리 Lambda
 
 - Certificate
   - [ ] AWS Associate
