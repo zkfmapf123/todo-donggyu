@@ -128,6 +128,7 @@
 
 - Side-Project
   - [ ] 나만의 AWS Architecture 구상도
+  - [ ] AWS Architecture 블로그만들기
   - [ ] TodoList (co-app)
 
 </div>
