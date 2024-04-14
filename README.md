@@ -70,7 +70,7 @@
 
   - [x] ECS For CiCD FullSet (ECS + Jenkins + CodeDeploy + Best Practice)
   - [x] ECS For Kinesis Pipeline (firelens + firehoes + s3)
-  - [ ] NatGateway에 대해서 공부하기...
+  - [x] NatGateway에 대해서 공부하기...
   - [x] Elastic Search (EFK, ELK)
   - [ ] ES Deep Dive(Elastic Agent, APM, Fleet-Manager)
   - [x] LogStash 깊게 공부해보기
