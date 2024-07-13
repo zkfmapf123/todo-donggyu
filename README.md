@@ -120,7 +120,11 @@
   - [ ] EKS + Github Action + Helm + Istio (Zero Trust)
   - [ ] 여러 인스턴스에 널려진 Container들의 정보를 한곳에서 보고싶음.. (Noamd나 Portrainer 들은 각 인스턴스에서만 동작함 -> 별롬)
   - [ ] CloudWatch + Kinesis Firehoes + S3 + Athena / Kinesis Fiehoes 와 Event Bridge + Lambda 중에 어떤것이 더 효율적인가? (Lambda가 효율적이긴 함...)
-  - [ ] AWS Config를 활용하여 인프라관리 Lambda
+  - [x] AWS Config를 활용하여 인프라관리 Lambda
+  - [ ] Lambda CLI
+  - [ ] CloudNative 공부하기 - ClickStream
+  - [ ] CloudNative 공부하기 - Cognito 와 다른 리소스 연결
+  - [ ] CloudNative 공부하기 - Amplify Gen2 
 
 - Certificate
   - [ ] AWS Associate
