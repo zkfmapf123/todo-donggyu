@@ -88,7 +88,7 @@
   - [ ] AWS Data Pipeline (Kinesis, EMR, Glue)
   - [ ] Glue 기반한 DataFlow 구성해보기 (EC2 - APIGateway - Kinesis DataStream - Kinesis Firehoes - S3 - AWS Glue)
           - S3 데이터 저장 (Bronze Data, Silver Data, Golden Data 고려
-  - [ ] Airflow
+  - [x] Airflow
   - [ ] Deep Dive Data Engineering (Spark, Flink, Apache Beam)
   - [ ] snowflake
   - [ ] DataHub (Linkedin Opensource)
