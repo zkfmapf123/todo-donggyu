@@ -108,11 +108,12 @@
   - [ ] AWS Security Hub
   - [ ] SOAR (보안 오케스트레이션, 자동화)
   - [ ] Consoleme 공부하기
-  - [ ] ABAC (Attribute-Based Access Control) 공부해보기 + IAM
+  - [x] ABAC (Attribute-Based Access Control) 공부해보기 + IAM
   - [x] Cloud Trail + Event Bridge + SNS + AWS Chatbot + Slack
 
 - Infra
-
+  - [ ] ECS(A) + APIGateway + SQS + ECS(B) -> EDA Architecture
+   - <a href="https://github.com/zkfmapf123/api-gateway-pubsub-pattern"> API-Gateway SQS Pub/Sub Pattern </a>
   - [ ] Golang + Lambda + DynamoDB
   - [ ] ECS Fargate + Sonarcube + Clair or Scout + EFK (ES + Fluentd + Kibana) + VPC Lattic
   - [ ] Kubernetes, k8s
@@ -133,7 +134,6 @@
 - Side-Project
   - [ ] 나만의 AWS Architecture 구상도
   - [ ] AWS Architecture 블로그만들기
-  - [ ] TodoList (co-app)
 
 </div>
 </details>
