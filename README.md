@@ -99,7 +99,7 @@
 
 - Langauge
 
-  - [ ] Golang Deep Dive
+  - [x] Golang Deep Dive
   - [x] go cobra를 사용해서 CLI 만들기
 
 - DevSecOps
@@ -112,7 +112,7 @@
   - [x] Cloud Trail + Event Bridge + SNS + AWS Chatbot + Slack
 
 - Infra
-  - [ ] ECS(A) + APIGateway + SQS + ECS(B) -> EDA Architecture
+  - [x] ECS(A) + APIGateway + SQS + ECS(B) -> EDA Architecture
    - <a href="https://github.com/zkfmapf123/api-gateway-pubsub-pattern"> API-Gateway SQS Pub/Sub Pattern </a>
   - [ ] Golang + Lambda + DynamoDB
   - [ ] ECS Fargate + Sonarcube + Clair or Scout + EFK (ES + Fluentd + Kibana) + VPC Lattic
@@ -125,7 +125,8 @@
   - [ ] Lambda CLI
   - [ ] CloudNative 공부하기 - ClickStream
   - [ ] CloudNative 공부하기 - Cognito 와 다른 리소스 연결
-  - [ ] CloudNative 공부하기 - Amplify Gen2 
+  - [ ] CloudNative 공부하기 - Amplify Gen2
+  - [ ] CodeBuild + Action Runner 제대로 구성하기
 
 - Certificate
   - [ ] AWS Associate
