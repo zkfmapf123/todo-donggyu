@@ -126,7 +126,7 @@
   - [ ] CloudNative 공부하기 - ClickStream
   - [ ] CloudNative 공부하기 - Cognito 와 다른 리소스 연결
   - [ ] CloudNative 공부하기 - Amplify Gen2
-  - [ ] CodeBuild + Action Runner 제대로 구성하기
+  - [x] CodeBuild + Action Runner 제대로 구성하기
 
 - Certificate
   - [ ] AWS Associate
