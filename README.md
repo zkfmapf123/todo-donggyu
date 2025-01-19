@@ -86,8 +86,7 @@
 - Engineering
 
   - [ ] AWS Data Pipeline (Kinesis, EMR, Glue)
-  - [ ] Glue 기반한 DataFlow 구성해보기 (EC2 - APIGateway - Kinesis DataStream - Kinesis Firehoes - S3 - AWS Glue)
-          - S3 데이터 저장 (Bronze Data, Silver Data, Golden Data 고려
+  - [ ] Glue 기반한 DataFlow 구성해보기 (EC2 - APIGateway - Kinesis DataStream - Kinesis Firehoes - S3 - AWS Glue) - S3 데이터 저장 (Bronze Data, Silver Data, Golden Data 고려
   - [x] Airflow
   - [ ] Deep Dive Data Engineering (Spark, Flink, Apache Beam)
   - [ ] snowflake
@@ -112,8 +111,9 @@
   - [x] Cloud Trail + Event Bridge + SNS + AWS Chatbot + Slack
 
 - Infra
+
   - [x] ECS(A) + APIGateway + SQS + ECS(B) -> EDA Architecture
-   - <a href="https://github.com/zkfmapf123/api-gateway-pubsub-pattern"> API-Gateway SQS Pub/Sub Pattern </a>
+  - <a href="https://github.com/zkfmapf123/api-gateway-pubsub-pattern"> API-Gateway SQS Pub/Sub Pattern </a>
   - [ ] Golang + Lambda + DynamoDB
   - [x] ECS Fargate + Sonarcube + Clair or Scout + EFK (ES + Fluentd + Kibana) + VPC Lattic
   - [x] Kubernetes, k8s
@@ -129,12 +129,60 @@
   - [x] CodeBuild + Action Runner 제대로 구성하기
 
 - Certificate
+
   - [ ] AWS Associate
   - [ ] Certified Kubernetes Administrator (CKA)
 
 - Side-Project
   - [ ] 나만의 AWS Architecture 구상도
   - [ ] AWS Architecture 블로그만들기
+
+</div>
+</details>
+
+<details>
+<summary> [2025년] Devops 전문가 되기 </summary>
+<div markdown="1">
+
+- SaaS Pipeline
+
+  - [ ] ArgoCD
+  - [ ] Helm
+  - [ ] Attlantis
+  - [ ] BackStage
+  - [ ] Istio
+  - [ ] LGTM Stack (Loki, Grafana, Tempo, Mimir)
+  - [ ] ES Deep Dive(Elastic Agent, APM, Fleet-Manager)
+  - [ ] <a href="https://kafka.apache.org/documentation/#introduction">Kafka 문서 정독하기</a>
+  - [ ] <a href="https://debezium.io/documentation/reference/stable/connectors/mysql.html">Debizium 문서 정독하기 </a>
+
+- Data Engineering
+
+  - [ ] apache Beam (Golang)
+
+- DevSecOps
+
+  - [ ] AWS Security Hub
+  - [ ] SOAR (보안 오케스트레이션, 자동화)
+
+- Infra
+
+  - [ ] Kubernetes 깊게 공부하기
+  - [ ] ClickStream 공부하기
+  - [x] Kafka pub/sub
+  - [ ] Kafak CDC / outbox (Connect)
+  - [ ] Kafak Stream / KsQL
+  - [ ] Kafka on K8s
+
+- SRE
+
+  - [ ] SRE 공부하기
+  - [ ] SLO, SLI, SLA 지표의 대한 공부
+
+- Certificate
+
+  - [ ] AWS Associate
+  - [ ] Certified Kubernetes Administrator (CKA)
 
 </div>
 </details>
