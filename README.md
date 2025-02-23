@@ -148,8 +148,8 @@
 
   - [ ] ArgoCD
   - [ ] Helm
-  - [ ] Attlantis
-  - [ ] BackStage
+  - [x] Attlantis
+  - [x] BackStage
   - [ ] Istio
   - [ ] LGTM Stack (Loki, Grafana, Tempo, Mimir)
   - [ ] ES Deep Dive(Elastic Agent, APM, Fleet-Manager)
