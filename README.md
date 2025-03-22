@@ -151,7 +151,7 @@
   - [x] Attlantis
   - [x] BackStage
   - [ ] Istio
-  - [ ] LGTM Stack (Loki, Grafana, Tempo, Mimir)
+  - [ ] LGTM Stack (Loki, Grafana, Tempo, Mimir) - 서비스 적용까지...
   - [ ] ES Deep Dive(Elastic Agent, APM, Fleet-Manager)
   - [ ] <a href="https://kafka.apache.org/documentation/#introduction">Kafka 문서 정독하기</a>
   - [ ] <a href="https://debezium.io/documentation/reference/stable/connectors/mysql.html">Debizium 문서 정독하기 </a>
@@ -164,6 +164,8 @@
 
   - [ ] AWS Security Hub
   - [ ] SOAR (보안 오케스트레이션, 자동화)
+  - [ ] CloudTrail, Inspector, Config 통합 및 공부해보기
+  - [ ] 보안 도구 공부해보기 (prowler)
 
 - Infra
 
@@ -178,6 +180,7 @@
 
   - [ ] SRE 공부하기
   - [ ] SLO, SLI, SLA 지표의 대한 공부
+  - [ ] Platform Engineering 공부해보기
 
 - Certificate
 
