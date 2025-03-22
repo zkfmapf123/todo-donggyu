@@ -158,7 +158,7 @@
 
 - Data Engineering
 
-  - [ ] apache Beam (Golang)
+  - [x] apache Beam (Golang)
 
 - DevSecOps
 
