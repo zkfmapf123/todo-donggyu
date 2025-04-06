@@ -186,6 +186,12 @@
 
   - [ ] AWS Associate
   - [ ] Certified Kubernetes Administrator (CKA)
+ 
+- Side Project
+
+  - [ ] <a href="https://github.com/zkfmapf123/mcp-aws-athena">MCP-AWS-Athena (mcp 서버를 활용한 athena 질의) </a>
+  - [ ] Datadog NEXT - Express (dd-tracer 전체 pipeline)
+  - [ ] <a href="https://github.com/zkfmapf123/resource-diagram">AWS Diagram Pipeline</a>
 
 </div>
 </details>
