@@ -114,15 +114,15 @@
 
   - [x] ECS(A) + APIGateway + SQS + ECS(B) -> EDA Architecture
   - <a href="https://github.com/zkfmapf123/api-gateway-pubsub-pattern"> API-Gateway SQS Pub/Sub Pattern </a>
-  - [ ] Golang + Lambda + DynamoDB
+  - [x] Golang + Lambda + DynamoDB
   - [x] ECS Fargate + Sonarcube + Clair or Scout + EFK (ES + Fluentd + Kibana) + VPC Lattic
   - [x] Kubernetes, k8s
   - [ ] EKS + Github Action + Helm (GitOps)
   - [ ] EKS + Github Action + Helm + Istio (Zero Trust)
-  - [ ] 여러 인스턴스에 널려진 Container들의 정보를 한곳에서 보고싶음.. (Noamd나 Portrainer 들은 각 인스턴스에서만 동작함 -> 별롬)
+  - [x] 여러 인스턴스에 널려진 Container들의 정보를 한곳에서 보고싶음.. (Noamd나 Portrainer 들은 각 인스턴스에서만 동작함 -> 별롬)
   - [x] CloudWatch + Kinesis Firehoes + S3 + Athena / Kinesis Fiehoes 와 Event Bridge + Lambda 중에 어떤것이 더 효율적인가? (Lambda가 효율적이긴 함...)
   - [x] AWS Config를 활용하여 인프라관리 Lambda
-  - [ ] Lambda CLI
+  - [x] Lambda CLI
   - [x] CloudNative 공부하기 - ClickStream
   - [x] CloudNative 공부하기 - Cognito 와 다른 리소스 연결
   - [x] CloudNative 공부하기 - Amplify Gen2
@@ -165,7 +165,7 @@
   - [ ] AWS Security Hub
   - [ ] SOAR (보안 오케스트레이션, 자동화)
   - [ ] CloudTrail, Inspector, Config 통합 및 공부해보기
-  - [ ] 보안 도구 공부해보기 (prowler)
+  - [x] 보안 도구 공부해보기 (prowler)
 
 - Infra
 
