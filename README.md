@@ -193,5 +193,15 @@
   - [ ] Datadog NEXT - Express (dd-tracer 전체 pipeline)
   - [ ] <a href="https://github.com/zkfmapf123/resource-diagram">AWS Diagram Pipeline</a>
 
+- Kubernetes
+  - [ ] EKS
+  - [ ] ArgoCD
+  - [ ] ArgoCD Rollout
+  - [ ] ArgoCD Notification
+  - [ ] ArgoCD Image Updater
+  - [ ] HPA / AutoScaler
+  - [ ] Karpenter
+  - [ ] LGTM Stack in EKS
+
 </div>
 </details>
