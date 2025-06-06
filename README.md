@@ -146,12 +146,12 @@
 
 - SaaS Pipeline
 
-  - [ ] ArgoCD
-  - [ ] Helm
+  - [x] ArgoCD
+  - [x] Helm
   - [x] Attlantis
   - [x] BackStage
   - [ ] Istio
-  - [ ] LGTM Stack (Loki, Grafana, Tempo, Mimir) - 서비스 적용까지...
+  - [x] LGTM Stack (Loki, Grafana, Tempo, Mimir) 
   - [ ] ES Deep Dive(Elastic Agent, APM, Fleet-Manager)
   - [ ] <a href="https://kafka.apache.org/documentation/#introduction">Kafka 문서 정독하기</a>
   - [ ] <a href="https://debezium.io/documentation/reference/stable/connectors/mysql.html">Debizium 문서 정독하기 </a>
@@ -163,8 +163,8 @@
 - DevSecOps
 
   - [ ] AWS Security Hub
-  - [ ] SOAR (보안 오케스트레이션, 자동화)
-  - [ ] CloudTrail, Inspector, Config 통합 및 공부해보기
+  - [x] SOAR (보안 오케스트레이션, 자동화)
+  - [x] CloudTrail, Inspector, Config 통합 및 공부해보기
   - [x] 보안 도구 공부해보기 (prowler)
 
 - Infra
@@ -172,15 +172,15 @@
   - [ ] Kubernetes 깊게 공부하기
   - [ ] ClickStream 공부하기
   - [x] Kafka pub/sub
-  - [ ] Kafak CDC / outbox (Connect)
-  - [ ] Kafak Stream / KsQL
+  - [x] Kafak CDC / outbox (Connect)
+  - [x] Kafak Stream / KsQL
   - [ ] Kafka on K8s
 
 - SRE
 
-  - [ ] SRE 공부하기
+  - [x] SRE 공부하기
   - [ ] SLO, SLI, SLA 지표의 대한 공부
-  - [ ] Platform Engineering 공부해보기
+  - [x] Platform Engineering 공부해보기
 
 - Certificate
 
